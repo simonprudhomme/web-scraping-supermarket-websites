@@ -1,2 +1,4 @@
-# grocery_crawler
-get maxi + loblaws product prices
+# Web scraping supermarket websites for product prices
+
+- maxi
+- loblaws product prices
